@@ -14,7 +14,6 @@ public class Program {
 
 		System.out.print("Enter account number: ");
 		int number = sc.nextInt();
-		System.out.print("Enter account holder: ");
 		sc.nextLine();
 		String holder = sc.nextLine();
 		System.out.print("Is there an inicial deposit(y/n)? ");
